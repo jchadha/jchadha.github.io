@@ -1722,7 +1722,9 @@ input, select, textarea {
 		left:0px;
 		background:rgba(0,0,0,0.75);
 		z-index: 1000;
+		overflow:auto;
 	}
+
 
 	/* Inner */
 	.popup-inner {
